@@ -7,6 +7,7 @@ namespace GitHubDemo
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Updated and pushed to GitHub");
         }
     }
 }
